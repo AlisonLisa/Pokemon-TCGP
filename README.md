@@ -159,7 +159,3 @@ Pokemon TCG Pocket is a digital version of the Pokemon Trading Card Game. This g
 2. Knock out all opponent's Pokemon
 3. Opponent cannot draw a card
 
-[Sources:
-- Bulbapedia - Pokemon TCG
-- Pokemon.com - Trading Card Game
-- Various competitive Pokemon TCG resources]
